@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Fri May 13 17:47:14 2022
+# Process ID: 13444
+# Current directory: D:/My Projects/VerilogProj_2013631/project_1_3adder/project_1_3adder.runs/synth_1
+# Command line: vivado.exe -log adder_display.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source adder_display.tcl
+# Log file: D:/My Projects/VerilogProj_2013631/project_1_3adder/project_1_3adder.runs/synth_1/adder_display.vds
+# Journal file: D:/My Projects/VerilogProj_2013631/project_1_3adder/project_1_3adder.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source adder_display.tcl -notrace
