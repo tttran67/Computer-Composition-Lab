@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Fri May  6 17:14:19 2022
+# Process ID: 9420
+# Current directory: D:/My Projects/VerilogProj_2013631/project_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11912 D:\My Projects\VerilogProj_2013631\project_2\project_2.xpr
+# Log file: D:/My Projects/VerilogProj_2013631/project_2/vivado.log
+# Journal file: D:/My Projects/VerilogProj_2013631/project_2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/My Projects/VerilogProj_2013631/project_2/project_2.xpr}
+update_compile_order -fileset sources_1
