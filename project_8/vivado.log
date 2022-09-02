@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Fri Sep  2 17:43:01 2022
+# Process ID: 5024
+# Current directory: D:/My Projects/VerilogProj_2013631/project_82
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8096 D:\My Projects\VerilogProj_2013631\project_82\project_8.xpr
+# Log file: D:/My Projects/VerilogProj_2013631/project_82/vivado.log
+# Journal file: D:/My Projects/VerilogProj_2013631/project_82\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/My Projects/VerilogProj_2013631/project_82/project_8.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2017.1/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Sep  2 17:51:27 2022...
