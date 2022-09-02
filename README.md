@@ -16,6 +16,4 @@ project_3是寄存器堆
 
 project3_2是改进寄存器堆(16个64位寄存器)
 
-project_4是alu
-
 projecct_8是我们小组的实验大作业，实现了一个流水线CPU，目前测试过仿真没有问题(要上箱的话需要手动添加目录下的lcd module)
