@@ -1,0 +1,19 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../multi_cycle_cpu_2.srcs/sources_1/ip/data_ram/sim/data_ram.v"
+verilog xil_defaultlib  "../../../multi_cycle_cpu_2.srcs/sources_1/ip/inst_rom/sim/inst_rom.v"
+verilog xil_defaultlib  "../../../multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/adder.v"
+verilog xil_defaultlib  "../../../multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/alu.v"
+verilog xil_defaultlib  "../../../multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/decode.v"
+verilog xil_defaultlib  "../../../multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/exe.v"
+verilog xil_defaultlib  "../../../multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/fetch.v"
+verilog xil_defaultlib  "../../../multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/mem.v"
+verilog xil_defaultlib  "../../../multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/multi_cycle_cpu.v"
+verilog xil_defaultlib  "../../../multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/regfile.v"
+verilog xil_defaultlib  "../../../multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/wb.v"
+verilog xil_defaultlib  "../../../multi_cycle_cpu_2.srcs/sim_1/imports/multi_cycle_cpu_2/tb.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

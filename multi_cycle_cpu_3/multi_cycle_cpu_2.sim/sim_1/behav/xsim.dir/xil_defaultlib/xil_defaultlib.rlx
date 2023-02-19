@@ -1,0 +1,17 @@
+0.6
+2017.1
+Apr 14 2017
+19:10:27
+D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.sim/sim_1/behav/glbl.v,1492045073,verilog,,,,glbl,,,,,,,,
+D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.srcs/sim_1/imports/multi_cycle_cpu_2/tb.v,1665046011,verilog,,,,tb,,,,,,,,
+D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/adder.v,1461905924,verilog,,,,adder,,,,,,,,
+D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/alu.v,1461985380,verilog,,,,alu,,,,,,,,
+D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/decode.v,1665393416,verilog,,,,decode,,,,,,,,
+D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/exe.v,1461985662,verilog,,,,exe,,,,,,,,
+D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/fetch.v,1665393205,verilog,,,,fetch,,,,,,,,
+D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/mem.v,1462526726,verilog,,,,mem,,,,,,,,
+D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/multi_cycle_cpu.v,1665046062,verilog,,,,multi_cycle_cpu,,,,,,,,
+D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/regfile.v,1461985342,verilog,,,,regfile,,,,,,,,
+D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.srcs/sources_1/imports/multi_cycle_cpu_2/wb.v,1665370721,verilog,,,,wb,,,,,,,,
+D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.srcs/sources_1/ip/data_ram/sim/data_ram.v,1664886510,verilog,,,,data_ram,,,,,,,,
+D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.srcs/sources_1/ip/inst_rom/sim/inst_rom.v,1664886592,verilog,,,,inst_rom,,,,,,,,

@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Webtalk v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Mon Oct 17 12:43:10 2022
+# Process ID: 42396
+# Current directory: D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.sim/sim_1/behav/xsim.dir/tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.sim/sim_1/behav/webtalk.log
+# Journal file: D:/My Projects/VerilogProj_2013631/multi_cycle_cpu_3/multi_cycle_cpu_2.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source D:/My -notrace
+invalid command name "%"
+    while executing
+"% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current"
+    (file "D:/My" line 1)
+INFO: [Common 17-206] Exiting Webtalk at Mon Oct 17 12:43:10 2022...
